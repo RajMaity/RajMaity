@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RajMaity
-- 👀 I’m interested in Programming and DSA, C/C++, Java, and Web-Development(Front-end).
-- 🌱 I’m currently learning Data Structure and Algorithm, Java
+- 👀 I’m interested in Programming and DSA, C/C++, Java, PHP, JavaScript, Web-Development(Front-end).
+- 🌱 I’m currently learning Data Structure and Algorithm, Java.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Email me at chanchalraj.maity@gmail.com
 
 <!---
 RajMaity/RajMaity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
