@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajMaity
-- 👀 I’m interested in Programming and DSA, C/C++, Java, PHP, JavaScript, Web-Development(Front-end).
+- 👀 I’m interested in Programming and DSA, C/C++, Java, JavaScript, Web-Development(Front-end).
 - 🌱 I’m currently learning Data Structure and Algorithm, Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email me at chanchalraj.maity@gmail.com
