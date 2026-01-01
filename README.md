@@ -33,7 +33,7 @@ I'm an **AI Engineer (Generative AI)** passionate about building AI applications
 ### 📈 GitHub Stats
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajMaity&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[RajMaity]&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajMaity&layout=compact&theme=radical" />
 </p>
 
 ---
