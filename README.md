@@ -30,9 +30,9 @@ I'm an **AI Engineer (Generative AI)** passionate about building AI applications
 
 ---
 
-### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/yourusername](http://www.linkedin.com/in/rajmaity1)
-- **Email:** [yourname@email.com](chanchalraj.maity@gmail.com)
+### 👋 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rajmaity1)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chanchalraj.maity@gmail.com)
 
 ---
 <p align="center">
